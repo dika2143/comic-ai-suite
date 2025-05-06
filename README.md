@@ -1,2 +1,1 @@
-# Comic-AI Suite 
-"# comic-ai-siute" 
+"# Comic-AI Suite" 
