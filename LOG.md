@@ -36,3 +36,4 @@ Sun May 11 12:47:57 2025
 | N/A   35C    P8              9W /   70W |       0MiB /  15360MiB |      0%      Default |
 |                                         |                        |                  N/A |
 +-----------------------------------------+------------------------+----------------------+
+Day 11: Commit notebook & dokumentasi setup selesai
